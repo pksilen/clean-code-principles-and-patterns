@@ -1,6 +1,6 @@
 # Prerequisites
 
-Node.js installed
+- Node.js is installed
 
 # Install Dependencies
 
