@@ -1,6 +1,7 @@
 # Prerequisites
 
-Java is installed
+- Java is installed
+- Docker or Docker Desktop is installed
 
 # Start MySql
 
